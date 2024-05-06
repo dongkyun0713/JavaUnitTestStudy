@@ -1,4 +1,4 @@
-package chpater1_2;
+package chpater1;
 
 import java.util.ArrayList;
 import java.util.List;

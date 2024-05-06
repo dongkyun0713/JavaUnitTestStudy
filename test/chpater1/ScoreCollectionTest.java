@@ -1,4 +1,4 @@
-package chpater1_2;
+package chpater1;
 
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
