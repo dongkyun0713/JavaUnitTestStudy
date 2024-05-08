@@ -18,5 +18,6 @@ public class ScoreCollectionTest {
 
         // 단언
         assertThat(actualResult, equalTo(6));
+        assertEquals(6, actualResult);
     }
 }
