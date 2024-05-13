@@ -16,6 +16,8 @@ public class Profile {
     }
 
     public void add(Answer answer) {
-        answers.put(answer.get)
+        answers.put(answer.getQuestionText(), answer);
     }
+
+    public boolean matches
 }
